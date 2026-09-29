@@ -2,6 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> P3471 CLASS</html>
+	<title>P3471 CLASS</html>
 </head>
 </html>
