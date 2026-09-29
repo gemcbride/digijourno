@@ -1,7 +1,7 @@
-# index.html
+# P3471 CLASS
 <!DOCTYPE html>
 <html>
 <head>
-	<title>P3471 CLASS</html>
+	<title>Hello World<\title>
 </head>
 </html>
